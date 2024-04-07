@@ -16,4 +16,6 @@
    <project path="hardware/qcom-caf/sdm660/audio" name="android_hardware_qcom-caf_sdm660_audio" remote="sdm660-dev" revision="lineage-21.0" />
    <project path="hardware/qcom-caf/sdm660/display" name="android_hardware_qcom-caf_sdm660_display" remote="sdm660-dev" revision="lineage-21.0" />
 
+   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-21" />
+
 </manifest>
