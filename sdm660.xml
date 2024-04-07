@@ -12,8 +12,8 @@
 
    <project path="kernel/xiaomi/sdm660" name="android_kernel_xiaomi_sdm660" remote="sdm660-dev" revision="14" />
 
-   <project path="hardware/qcom-caf/bouquet/media" name="android_hardware_qcom-caf_bouqet_media" remote="sdm660-dev" revision="lineage-21.0" />
-   <project path="hardware/qcom-caf/bouquet/audio" name="android_hardware_qcom-caf_bouqet_audio" remote="sdm660-dev" revision="lineage-21.0" />
-   <project path="hardware/qcom-caf/bouquet/display" name="android_hardware_qcom-caf_bouqet_display" remote="sdm660-dev" revision="lineage-21.0" />
+   <project path="hardware/qcom-caf/sdm660/media" name="android_hardware_qcom-caf_sdm660_media" remote="sdm660-dev" revision="lineage-21.0" />
+   <project path="hardware/qcom-caf/sdm660/audio" name="android_hardware_qcom-caf_sdm660_audio" remote="sdm660-dev" revision="lineage-21.0" />
+   <project path="hardware/qcom-caf/sdm660/display" name="android_hardware_qcom-caf_sdm660_display" remote="sdm660-dev" revision="lineage-21.0" />
 
 </manifest>
