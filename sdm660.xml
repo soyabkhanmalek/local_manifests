@@ -4,14 +4,13 @@
     <remote name="sdm660-dev"
       fetch="https://github.com/xiaomi-sdm660-tulip-dev"/>
   
-   <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="sdm660-dev" revision="lineage-21.0" />
-   <project path="device/xiaomi/twolip" name="android_device_xiaomi_twolip" remote="sdm660-dev" revision="lineage-21.0" />
+   <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="sdm660-dev" revision="lineage-21.0-new" />
+   <project path="device/xiaomi/twolip" name="android_device_xiaomi_twolip" remote="sdm660-dev" revision="lineage-21.0-new" />
 
-   <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common" remote="sdm660-dev" revision="lineage-21.0" />
-   <project path="vendor/xiaomi/twolip" name="android_vendor_xiaomi_twolip" remote="sdm660-dev" revision="lineage-21.0" />
+   <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common" remote="sdm660-dev" revision="lineage-21.0-new" />
+   <project path="vendor/xiaomi/twolip" name="android_vendor_xiaomi_twolip" remote="sdm660-dev" revision="lineage-21.0-new" />
 
-  
-   <project path="device/xiaomi/bouquet-kernels" name="android_device_xiaomi_bouquet-kernels" remote="sdm660-dev" revision="thirteen" />
+   <project path="kernel/xiaomi/sdm660" name="android_kernel_xiaomi_sdm660" remote="sdm660-dev" revision="14" />
 
    <project path="hardware/qcom-caf/bouquet/media" name="android_hardware_qcom-caf_bouqet_media" remote="sdm660-dev" revision="lineage-21.0" />
    <project path="hardware/qcom-caf/bouquet/audio" name="android_hardware_qcom-caf_bouqet_audio" remote="sdm660-dev" revision="lineage-21.0" />
