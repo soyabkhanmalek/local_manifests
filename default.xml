@@ -18,4 +18,4 @@
    
        
    <project path="kernel/xiaomi/twolip" name="android_kernel_xiaomi_sdm660_419" remote="san" revision="android-4.19-stable" />
-</manifest>
+   </manifest>
