@@ -17,5 +17,5 @@
    <project path="hardware/qcom-caf/bouquet/display" name="android_hardware_qcom_display" remote="bouquet" revision="sdm660-4.19" />
    
        
-   <project path=kernel/xiaomi/twolip" name="android_kernel_xiaomi_sdm660_419" remote="san" revision="android-4.19-stable" />
+   <project path="kernel/xiaomi/twolip" name="android_kernel_xiaomi_sdm660_419" remote="san" revision="android-4.19-stable" />
 </manifest>
