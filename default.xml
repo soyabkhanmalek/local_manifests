@@ -2,7 +2,7 @@
 <manifest>
     <remote name="bouquet"
       fetch="https://github.com/Whyred-Dynamic-Development"/>
-   <remote name="soyab" fetch"https://github.com/soyabkhanmalek"/>
+   <remote name="soyab" fetch="https://github.com/soyabkhanmalek"/>
    <remote name="san" fetch="https://github.com/user-why-red">
        
    <project path="device/xiaomi/bouquet-common" name="android_device_xiaomi_bouquet-common" remote="bouquet" revision="lineage-21" />
